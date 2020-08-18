@@ -32,3 +32,4 @@ Python開發環境@windwos
 或 D:\python3\python.exe XXX.py
 -------------------------------------------------------
 ```
+![image](https://github.com/gwehs027/Python/blob/master/github.png)
