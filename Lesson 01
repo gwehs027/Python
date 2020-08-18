@@ -1,7 +1,6 @@
 # 一小時Python程式設計入門課
 
 ```
-龍大大
 https://github.com/MyDearGreatTeacher/Python
 https://github.com/HappyHackingHigh/HappyPythonDay
 =========================================
@@ -33,17 +32,4 @@ Python開發環境@windwos
 或 D:\python3\python.exe XXX.py
 -------------------------------------------------------
 ```
-### Python開發環境(3)Linux
-```
-Python開發環境@Ubuntu 16.04 LTS 64-bit
-
-[1]使用python interactive shell
-開啟terminal,輸入下列指令
-python==>進入python 2.7shell
-python3==>進入python 3.6.X shell
-離開==>exit()
--------------------------------------------------------
-[2]使用gedit(或nano或vim)寫程式==>記得檔名要XXX.py
-python xxx.py
-python3 xxx.py
-```
+### 
