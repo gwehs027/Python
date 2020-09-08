@@ -89,3 +89,37 @@ else:
 請輸入購物金額：111111
 88888.8 元
 ```
+
+#簡易計算機
+```
+   print("選項:")
+   print("輸入 '+' 讓兩個數值互加")
+   print("輸入 '-' 讓兩個數值互減")
+   print("輸入 '*' 讓兩個數值互乘")
+   print("輸入 '/' 讓兩個數值互除")
+   print("輸入 'exit' 來結束程式")
+   user_input = input(": ")
+    
+   if user_input == "+":
+      num1 = float(input("請輸入數字:"))
+      num2 = float(input("請輸入另一個數字:"))
+      result = str(num1 + num2)
+      print("答案是 " + result)
+   elif user_input == "-":
+      num1 = float(input("請輸入數字:"))
+      num2 = float(input("請輸入另一個數字:"))
+      result = str(num1 - num2)
+      print("答案是 " + result)
+   elif user_input == "*":
+      num1 = float(input("請輸入數字:"))
+      num2 = float(input("請輸入另一個數字:"))
+      result = str(num1 * num2)
+      print("答案是 " + result)
+   elif user_input == "/":
+      num1 = float(input("請輸入數字:"))
+      num2 = float(input("請輸入另一個數字:"))
+      result = str(num1 / num2)
+      print("答案是 " + result)
+   else:
+      print("不知道你在輸入什麼")  
+```
