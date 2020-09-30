@@ -9,4 +9,7 @@ i=1
 while i < 3:
 print(i)
 i+=1
+
+print("abc")
 ```
+問題：while迴圈的執行範圍為何？
