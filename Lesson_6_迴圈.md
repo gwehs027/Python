@@ -27,3 +27,17 @@ range(起始值,終止值,增減值)
 for x in range(1,10):
   print (x)
 ```
+
+#巢狀迴圈
+```
+k =1
+h = 1
+while k <6 :
+  while h < 6:
+    print (k,end=(''))
+    h+=1
+  k+=1
+  h =1
+  print()
+
+```
