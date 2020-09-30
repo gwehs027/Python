@@ -41,3 +41,10 @@ while k <6 :
   print()
 
 ```
+```
+for i in range(9,1,-3):
+  print("")
+  for j in range(1,10):
+    print(i,end=(''))
+
+```
