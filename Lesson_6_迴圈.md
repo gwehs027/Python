@@ -9,6 +9,16 @@ $$$$$$$$$$$
 
 如果印100行呢?
 ```
+
+```
+for x in range(1,10):
+ print (x,end="")
+ print ("") #這一行前的空白影響很大
+
+for y in range(1,10):
+ print(y,end="")
+```
+
 # While 迴圈
 ```
 while 條件判斷式:
