@@ -21,14 +21,14 @@ PS: Python沒有switch
 ```
 
 ## [程式設計題]請問從元旦到今天你已經過幾天呢了？
-```
+```json
 import time  # 使用python標準函數庫的time模組{處理時間的函數}
 
 date = time.localtime()	
 print(date)
 ```
 
-```
+```css
 import time
 
 date = time.localtime()		#取得目前的日期時間
