@@ -23,3 +23,8 @@ DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽
 + this text is highlighted in green
 - this text is highlighted in red
 ```
+```html
+<style="color:red">// Code for coloring</style>
+<font color="green">// Code for coloring</font>
+```
+ 
