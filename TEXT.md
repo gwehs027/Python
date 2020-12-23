@@ -1,5 +1,5 @@
 ```
-RED APPLE (&#x1F34E;): 🍎
+RED APPLE (&#x1F34E;): 🍎&#x1F34E;
 GREEN APPLE (&#x1F34F;): 🍏
 BLUE HEART (&#x1F499;): 💙
 GREEN HEART (&#x1F49A;): 💚
